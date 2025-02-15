@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**brightprogrammer/brightprogrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Siddharth Mishra. I absolutely love creating things. I've been writing for latest five to six years now, slowly moving from Java -> Python -> C++ -> C (finally!). I love mathematics, so I love the idea of functional programming as well. By the time you're reading this, maybe I have some blog posts on FP on my blog [brightprogrammer.in](https://brightprogrammer.in).
 
-Here are some ideas to get you started:
+I currently support myself by taking contract works, providing consultancy, both by legal agreements, and by word of mouth (depending on whether I know you or not). I'm open to any technical discussion on my self hosted Mattermost server [chat.brightprogrammer.in](https://chat.brightprogrammer.in).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like low level programming, have done some reverse engineering, pwning, graphics programming, web development, desktop app development, and what not? I'd call myself _Jack of all trades_, and in pursuit of being _Master of all_! I've written grammar based fuzzers, operating system, parsers, a website completely C (yes, html was in C as well!), small games, small graphics programs to render shapes by loading 3d models from files, http servers, api backends (in C again, but in Python as well...), and most of this is from scratch.
+
+These are my only original accounts :
+
+- [Twitter](https://x.com/brightprogramer)
+- [YouTube](https://youtube.com/@brightprogrammer)
+- [LinkedIn](https://in.linkedin.com/brightprogrammer)
+- [Blog](https://brightprogrammer.in)
+- [GitHub](https://github.com/brightprogrammer)
+
+If you find my go-to handle (brightprogrammer) anywhere else, that's not me!
