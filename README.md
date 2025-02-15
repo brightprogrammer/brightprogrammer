@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Siddharth Mishra. I absolutely love creating things. I've been writing for latest five to six years now, slowly moving from Java -> Python -> C++ -> C (finally!). I love mathematics, so I love the idea of functional programming as well. By the time you're reading this, maybe I have some blog posts on FP on my blog [brightprogrammer.in](https://brightprogrammer.in).
+I'm Siddharth Mishra. I absolutely love creating things. I've been writing code since I was in grade 2, slowly moving from LOGO -> HTML -> Java -> Python -> C++ -> C (finally!), while exploring other languages like Rust, Haskell, OCaml, etc... I love the idea of functional programming as well. By the time you're reading this, maybe I have some notes on lambda on my blog [brightprogrammer.in](https://brightprogrammer.in).
 
 I currently support myself by taking contract works, providing consultancy, both by legal agreements, and by word of mouth (depending on whether I know you or not). I'm open to any technical discussion on my self hosted Mattermost server [chat.brightprogrammer.in](https://chat.brightprogrammer.in).
 
