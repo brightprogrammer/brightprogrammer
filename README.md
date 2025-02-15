@@ -13,5 +13,6 @@ These are my only original accounts :
 - [LinkedIn](https://in.linkedin.com/brightprogrammer)
 - [Blog](https://brightprogrammer.in)
 - [GitHub](https://github.com/brightprogrammer)
+- Discord (brightprogrammer)
 
 If you find my go-to handle (brightprogrammer) anywhere else, that's not me!
